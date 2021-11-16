@@ -1,4 +1,4 @@
-Prints "Hello!" with a main function.
+Prints greetings as the output to the command line.
 
-# sayHello
-Prints "Hello!" as the output to the command line using a hello function.
+# greetings 
+Prints greetings as the output to the command line.

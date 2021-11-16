@@ -1,5 +1,5 @@
 [package]
 org = "pramodya"
-name = "sayHello"
+name = "greetings"
 version = "0.1.0"
 distribution = "slbeta3"

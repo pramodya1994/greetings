@@ -48,14 +48,14 @@ modules = [
 
 [[package]]
 org = "pramodya"
-name = "sayHello"
+name = "greetings"
 version = "0.1.0"
 dependencies = [
 	{org = "ballerina", name = "io"},
 	{org = "ballerina", name = "test"}
 ]
 modules = [
-	{org = "pramodya", packageName = "sayHello", moduleName = "sayHello"}
+	{org = "pramodya", packageName = "greetings", moduleName = "greetings"}
 ]
 
 
